@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakshya Khandelwal  
 
-💻 **RPA Developer | Aspiring Data Scientist | Tech Enthusiast**  
+💻 **Aspiring Data Scientist | Tech Enthusiast**  
 
 ---
 
