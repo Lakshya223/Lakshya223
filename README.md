@@ -30,10 +30,7 @@ I'm passionate about technology and its potential to solve real-world problems. 
 - Tech Stack: Keras, ResNet50, Jupyter  
 
 ### 4. **IoT-Based Home Monitoring System**  
-- Smart home solution using NodeMCU, IR sensors, and motor drivers.  
-
-### 5. **IMDb Scraper**  
-- Automated movie rating scraper using BeautifulSoup and Python.  
+- Smart home solution using NodeMCU, IR sensors, and motor drivers.   
 
 ---
 
@@ -41,18 +38,6 @@ I'm passionate about technology and its potential to solve real-world problems. 
 - **Springer Chapter**: *Challenges in Banking and Solving Them Using RPA*.  
 - **IEEE Conference Paper**: *Fake Product Identification System Using Blockchain*  
   - 2 Citations | 672 Full-text views  
-
----
-
-## 🌍 Volunteering  
-- **Google Developer Students Club**: Blog Writer & Website Manager  
-- **Teaching Volunteer**: Taught STEM subjects to students through interactive methods.  
-
----
-
-## 🎯 Goals  
-- **Short-term**: Gain hands-on experience with AI and data science projects in industry settings.  
-- **Long-term**: Revolutionize my family business, Mahaveer Tea Company, using data-driven strategies and work on sustainable AI solutions to reduce environmental impact.  
 
 ---
 
