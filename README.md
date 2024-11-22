@@ -42,6 +42,6 @@ I'm passionate about technology and its potential to solve real-world problems. 
 
 ## 📫 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lakshyakhandelwal223/)  
-- 📩 Email: lakshyakhandelwal@example.com  
+- 📩 Email: lakshyapkhandelwal223@gmail.com  
 
 🌟 *"Curiosity and innovation drive me to create impactful solutions, one project at a time."*
